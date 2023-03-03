@@ -2,6 +2,10 @@
 
 ![Screenshot](/public/ss.png)
 
+### Demo
+
+Here is the link: https://webpack5.behonbaker.com/
+
 ### Inspiration
 
 Nuxt3(with Vite bundler) does not play well with Vuetify3 when customizing SASS variables. You would have to do a lot to get the app to run in dev mode.. When the app starts, hot realod was not so hot. Took like 20 seconds for a single change to show up after save. Then I remembered.. Nuxt3 can be bundled with Webpack5.. So I asked google how to use Nuxt3 with webpack.. I got this answer --> https://stackoverflow.com/questions/70721804/how-to-use-webpack-5-with-nuxt3-project.
