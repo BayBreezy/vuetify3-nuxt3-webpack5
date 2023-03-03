@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@iconify/vue": "^4.1.0",
+    "@kevinmarrec/nuxt-pwa": "^0.17.0",
+    "nuxt": "^3.2.3",
+    "sass": "^1.58.3",
+    "sass-loader": "^13.2.0"
+  },
+  "dependencies": {
+    "@nuxt/webpack-builder": "^3.2.3",
+    "@vueuse/sound": "^2.0.1",
+    "apexcharts": "^3.37.1",
+    "tailwindcss": "^3.2.7",
+    "vue3-apexcharts": "^1.4.1",
+    "vuetify": "^3.1.7",
+    "webpack-plugin-vuetify": "^2.0.1"
+  },
+  "overrides": {
+    "vue": "latest"
+  }
+}
