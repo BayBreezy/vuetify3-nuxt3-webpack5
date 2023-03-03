@@ -1,5 +1,3 @@
-import { NuxtPage } from './.nuxt/components';
-
 <template>
   <div>
     <NuxtLayout>
